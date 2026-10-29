@@ -170,6 +170,7 @@ address p{margin:.4em 0}
   .top__phone{margin-left:auto}
   .hero__grid,.quiz-wrap,.contacts{grid-template-columns:minmax(0,1fr)}
   .hero__art{order:-1}.hero__art img{max-height:300px}
+  .blob{left:50%;right:auto;width:min(340px,86%);transform:translateX(-50%)}
   .cards--3,.cards--4,.steps{grid-template-columns:1fr 1fr}
 }
 @media (max-width:600px){
